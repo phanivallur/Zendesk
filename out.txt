@@ -1,0 +1,204 @@
+1Data for agent: Mahesh
+raw_title : Mahesh
+restriction : {u'type': u'User', u'id': 420749251}
+description : None
+title : Mahesh
+url : https://accelerite.zendesk.com/api/v2/views/360021085071.json
+highlights : {u'title': u'<em>Mahesh</em>'}
+created_at : 2018-04-26T18:22:13Z
+updated_at : 2018-04-26T18:22:13Z
+countable : True
+active : True
+position : 10545
+execution : {u'sort': {u'order': u'asc', u'id': u'ticket_id', u'title': u'ID'}, u'group': None, u'fields': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'sort_by': u'nice_id', u'group_by': None, u'custom_fields': [{u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}], u'sort_order': u'asc', u'columns': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'group_order': u'desc'}
+conditions : {u'all': [{u'operator': u'is', u'field': u'assignee_id', u'value': u'1654986033'}], u'any': [{u'operator': u'is', u'field': u'status', u'value': u'open'}, {u'operator': u'is', u'field': u'status', u'value': u'pending'}, {u'operator': u'is', u'field': u'status', u'value': u'hold'}]}
+id : 360021085071
+
+
+2Data for agent: Phani
+raw_title : Phani
+restriction : {u'type': u'User', u'id': 420749251}
+description : None
+title : Phani
+url : https://accelerite.zendesk.com/api/v2/views/360020909772.json
+highlights : {u'title': u'<em>Phani</em>'}
+created_at : 2018-04-26T18:16:09Z
+updated_at : 2018-04-26T18:16:09Z
+countable : True
+active : True
+position : 10543
+execution : {u'sort': {u'order': u'asc', u'id': u'ticket_id', u'title': u'ID'}, u'group': None, u'fields': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'sort_by': u'nice_id', u'group_by': None, u'custom_fields': [{u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}], u'sort_order': u'asc', u'columns': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'group_order': u'asc'}
+conditions : {u'all': [{u'operator': u'is', u'field': u'assignee_id', u'value': u'420749251'}], u'any': [{u'operator': u'is', u'field': u'status', u'value': u'open'}, {u'operator': u'is', u'field': u'status', u'value': u'pending'}, {u'operator': u'is', u'field': u'status', u'value': u'hold'}]}
+id : 360020909772
+
+
+3Data for agent: Prashanth
+raw_title : Prashanth
+restriction : {u'type': u'User', u'id': 420749251}
+description : None
+title : Prashanth
+url : https://accelerite.zendesk.com/api/v2/views/360020911472.json
+highlights : {u'title': u'<em>Prashanth</em>'}
+created_at : 2018-04-26T18:29:17Z
+updated_at : 2018-04-26T18:29:17Z
+countable : True
+active : True
+position : 10548
+execution : {u'sort': {u'order': u'asc', u'id': u'ticket_id', u'title': u'ID'}, u'group': None, u'fields': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'sort_by': u'nice_id', u'group_by': None, u'custom_fields': [{u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}], u'sort_order': u'asc', u'columns': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'group_order': u'desc'}
+conditions : {u'all': [{u'operator': u'is', u'field': u'assignee_id', u'value': u'1678278173'}], u'any': [{u'operator': u'is', u'field': u'status', u'value': u'open'}, {u'operator': u'is', u'field': u'status', u'value': u'pending'}, {u'operator': u'is', u'field': u'status', u'value': u'hold'}]}
+id : 360020911472
+
+
+2Data for agent: Nataraj
+raw_title : Nataraj
+restriction : {u'type': u'User', u'id': 420749251}
+description : None
+title : Nataraj
+url : https://accelerite.zendesk.com/api/v2/views/360021085871.json
+highlights : {u'title': u'<em>Nataraj</em>'}
+created_at : 2018-04-26T18:24:29Z
+updated_at : 2018-04-26T18:24:29Z
+countable : True
+active : True
+position : 10546
+execution : {u'sort': {u'order': u'asc', u'id': u'ticket_id', u'title': u'ID'}, u'group': None, u'fields': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'sort_by': u'nice_id', u'group_by': None, u'custom_fields': [{u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}], u'sort_order': u'asc', u'columns': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'group_order': u'desc'}
+conditions : {u'all': [{u'operator': u'is', u'field': u'assignee_id', u'value': u'1351388076'}], u'any': [{u'operator': u'is', u'field': u'status', u'value': u'open'}, {u'operator': u'is', u'field': u'status', u'value': u'pending'}, {u'operator': u'is', u'field': u'status', u'value': u'hold'}]}
+id : 360021085871
+
+
+2Data for agent: Nethaji
+raw_title : Nethaji
+restriction : {u'type': u'User', u'id': 420749251}
+description : None
+title : Nethaji
+url : https://accelerite.zendesk.com/api/v2/views/360021081371.json
+highlights : {u'title': u'<em>Nethaji</em>'}
+created_at : 2018-04-26T18:03:01Z
+updated_at : 2018-04-26T18:03:01Z
+countable : True
+active : True
+position : 10540
+execution : {u'sort': {u'order': u'desc', u'id': u'ticket_id', u'title': u'ID'}, u'group': None, u'fields': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'sort_by': u'nice_id', u'group_by': None, u'custom_fields': [{u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}], u'sort_order': u'desc', u'columns': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'group_order': u'desc'}
+conditions : {u'all': [{u'operator': u'is', u'field': u'assignee_id', u'value': u'2720137806'}], u'any': [{u'operator': u'is', u'field': u'status', u'value': u'open'}, {u'operator': u'is', u'field': u'status', u'value': u'pending'}, {u'operator': u'is', u'field': u'status', u'value': u'hold'}]}
+id : 360021081371
+
+
+2Data for agent: Jithin
+raw_title : Jithin
+restriction : {u'type': u'User', u'id': 420749251}
+description : None
+title : Jithin
+url : https://accelerite.zendesk.com/api/v2/views/360021083091.json
+highlights : {u'title': u'<em>Jithin</em>'}
+created_at : 2018-04-26T18:13:42Z
+updated_at : 2018-04-26T18:13:42Z
+countable : True
+active : True
+position : 10542
+execution : {u'sort': {u'order': u'desc', u'id': u'ticket_id', u'title': u'ID'}, u'group': None, u'fields': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'sort_by': u'nice_id', u'group_by': None, u'custom_fields': [{u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}], u'sort_order': u'desc', u'columns': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'group_order': u'desc'}
+conditions : {u'all': [{u'operator': u'is', u'field': u'assignee_id', u'value': u'1655008753'}], u'any': [{u'operator': u'is', u'field': u'status', u'value': u'open'}, {u'operator': u'is', u'field': u'status', u'value': u'pending'}, {u'operator': u'is', u'field': u'status', u'value': u'hold'}]}
+id : 360021083091
+
+
+2Data for agent: Nischal
+raw_title : Nischal
+restriction : {u'type': u'User', u'id': 420749251}
+description : None
+title : Nischal
+url : https://accelerite.zendesk.com/api/v2/views/360020908812.json
+highlights : {u'title': u'<em>Nischal</em>'}
+created_at : 2018-04-26T18:10:05Z
+updated_at : 2018-04-26T18:10:05Z
+countable : True
+active : True
+position : 10541
+execution : {u'sort': {u'order': u'asc', u'id': u'ticket_id', u'title': u'ID'}, u'group': None, u'fields': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'sort_by': u'nice_id', u'group_by': None, u'custom_fields': [{u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}], u'sort_order': u'asc', u'columns': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'group_order': u'asc'}
+conditions : {u'all': [{u'operator': u'is', u'field': u'assignee_id', u'value': u'1669472626'}], u'any': [{u'operator': u'is', u'field': u'status', u'value': u'open'}, {u'operator': u'is', u'field': u'status', u'value': u'pending'}, {u'operator': u'is', u'field': u'status', u'value': u'hold'}]}
+id : 360020908812
+
+
+2Data for agent: Raveen
+raw_title : Raveen
+restriction : {u'type': u'User', u'id': 420749251}
+description : None
+title : Raveen
+url : https://accelerite.zendesk.com/api/v2/views/360020911432.json
+highlights : {u'title': u'<em>Raveen</em>'}
+created_at : 2018-04-26T18:26:35Z
+updated_at : 2018-04-26T18:26:35Z
+countable : True
+active : True
+position : 10547
+execution : {u'sort': {u'order': u'asc', u'id': u'ticket_id', u'title': u'ID'}, u'group': None, u'fields': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'sort_by': u'nice_id', u'group_by': None, u'custom_fields': [{u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}], u'sort_order': u'asc', u'columns': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'group_order': u'desc'}
+conditions : {u'all': [{u'operator': u'is', u'field': u'assignee_id', u'value': u'2519951383'}], u'any': [{u'operator': u'is', u'field': u'status', u'value': u'open'}, {u'operator': u'is', u'field': u'status', u'value': u'pending'}, {u'operator': u'is', u'field': u'status', u'value': u'hold'}]}
+id : 360020911432
+
+
+2Data for agent: Anish
+raw_title : Anish
+restriction : {u'type': u'User', u'id': 420749251}
+description : None
+title : Anish
+url : https://accelerite.zendesk.com/api/v2/views/360021081271.json
+highlights : {u'title': u'<em>Anish</em>'}
+created_at : 2018-04-26T17:59:01Z
+updated_at : 2018-04-26T17:59:01Z
+countable : True
+active : True
+position : 10539
+execution : {u'sort': {u'order': u'desc', u'id': u'ticket_id', u'title': u'ID'}, u'group': None, u'fields': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'sort_by': u'nice_id', u'group_by': None, u'custom_fields': [{u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}], u'sort_order': u'desc', u'columns': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'group_order': u'desc'}
+conditions : {u'all': [{u'operator': u'is', u'field': u'assignee_id', u'value': u'5848203926'}], u'any': [{u'operator': u'is', u'field': u'status', u'value': u'open'}, {u'operator': u'is', u'field': u'status', u'value': u'pending'}, {u'operator': u'is', u'field': u'status', u'value': u'hold'}]}
+id : 360021081271
+
+
+2Data for agent: Abhisek
+raw_title : Abhisek
+restriction : {u'type': u'User', u'id': 420749251}
+description : None
+title : Abhisek
+url : https://accelerite.zendesk.com/api/v2/views/360020907532.json
+highlights : {u'title': u'<em>Abhisek</em>'}
+created_at : 2018-04-26T17:55:41Z
+updated_at : 2018-04-26T17:55:41Z
+countable : True
+active : True
+position : 10538
+execution : {u'sort': {u'order': u'desc', u'id': u'ticket_id', u'title': u'ID'}, u'group': None, u'fields': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'sort_by': u'nice_id', u'group_by': None, u'custom_fields': [{u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}], u'sort_order': u'desc', u'columns': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'group_order': u'desc'}
+conditions : {u'all': [{u'operator': u'is', u'field': u'assignee_id', u'value': u'1655002753'}], u'any': [{u'operator': u'is', u'field': u'status', u'value': u'open'}, {u'operator': u'is', u'field': u'status', u'value': u'pending'}, {u'operator': u'is', u'field': u'status', u'value': u'hold'}]}
+id : 360020907532
+
+
+2Data for agent: Abhinav
+raw_title : Abhinav
+restriction : {u'type': u'User', u'id': 420749251}
+description : None
+title : Abhinav
+url : https://accelerite.zendesk.com/api/v2/views/360021074891.json
+highlights : {u'title': u'<em>Abhinav</em>'}
+created_at : 2018-04-26T17:31:38Z
+updated_at : 2018-04-26T17:31:38Z
+countable : True
+active : True
+position : 10537
+execution : {u'sort': {u'order': u'asc', u'id': u'ticket_id', u'title': u'ID'}, u'group': None, u'fields': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'sort_by': u'nice_id', u'group_by': None, u'custom_fields': [{u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}], u'sort_order': u'asc', u'columns': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'group_order': u'asc'}
+conditions : {u'all': [{u'operator': u'is', u'field': u'assignee_id', u'value': u'1669489846'}], u'any': [{u'operator': u'is', u'field': u'status', u'value': u'open'}, {u'operator': u'is', u'field': u'status', u'value': u'pending'}, {u'operator': u'is', u'field': u'status', u'value': u'hold'}]}
+id : 360021074891
+
+
+3Data for agent: Kiran
+raw_title : Kiran
+restriction : {u'type': u'User', u'id': 420749251}
+description : None
+title : Kiran
+url : https://accelerite.zendesk.com/api/v2/views/360021085011.json
+highlights : {u'title': u'<em>Kiran</em>'}
+created_at : 2018-04-26T18:20:25Z
+updated_at : 2018-04-26T18:20:25Z
+countable : True
+active : True
+position : 10544
+execution : {u'sort': {u'order': u'desc', u'id': u'ticket_id', u'title': u'ID'}, u'group': None, u'fields': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'sort_by': u'nice_id', u'group_by': None, u'custom_fields': [{u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}], u'sort_order': u'desc', u'columns': [{u'id': u'ticket_id', u'title': u'ID'}, {u'id': u'submitter', u'title': u'Submitter'}, {u'id': u'subject', u'title': u'Subject'}, {u'id': u'requester', u'title': u'Requester'}, {u'id': u'created', u'title': u'Requested'}, {u'id': u'assignee', u'title': u'Assignee'}, {u'url': u'https://accelerite.zendesk.com/api/v2/ticket_fields/24264743.json', u'type': u'text', u'id': 24264743, u'title': u'Jira ID (Bug ID)'}, {u'id': u'updated', u'title': u'Updated'}, {u'id': u'sla_next_breach_at', u'title': u'Next SLA breach'}, {u'id': u'satisfaction_score', u'title': u'Satisfaction'}], u'group_order': u'desc'}
+conditions : {u'all': [{u'operator': u'is', u'field': u'assignee_id', u'value': u'1655021603'}], u'any': [{u'operator': u'is', u'field': u'status', u'value': u'open'}, {u'operator': u'is', u'field': u'status', u'value': u'pending'}, {u'operator': u'is', u'field': u'status', u'value': u'hold'}]}
+id : 360021085011
+
+
